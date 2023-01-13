@@ -1,0 +1,14 @@
+/* Introduction to SQL 					*/
+/* Script file for ORACLE  DBMS				*/
+/* This script file drops the following tables:	*/
+/* VENDOR, PRODUCT, CUSTOMER, INVOICE, LINE		*/
+/* EMPLOYEE, EMP					*/
+
+DROP TABLE LINE;
+DROP TABLE INVOICE;
+DROP TABLE CUSTOMER;
+DROP TABLE PRODUCT;
+DROP TABLE VENDOR;
+DROP TABLE EMPLOYEE;
+DROP TABLE EMP2;
+
